@@ -1,0 +1,54 @@
+h1{
+    color:black;
+    border:5px solid red;
+    background: pink;
+    font-size:20px;
+    text-align: center;
+}
+#top {
+    margin: 50px 0 100px 0;
+    padding: 0 60px 0 50px;
+    width:200px;
+    height:39px;
+    text-align:center;
+    font-size:15px;
+    border:1px solid red;
+    
+    
+}
+.wraper{
+    text-align: center;
+    font-size:30px;
+    width:400px;
+    height:300px;
+}
+div{ 
+    boder: 2px solid red;
+}
+
+h2{
+    color:rgb(52, 152, 125);
+   
+   font-size:15px;
+   width: 1400px;
+   height: 20px;
+   border:2px solid red;
+   background: pink;
+   margin: 100px 0 50px 0;
+   text-align:center;
+   
+}
+h3{
+    color:aqua;
+    border:1px solid black;
+    background: red;
+    font-size: 25px;
+    text-align: center;
+    }
+h4{
+    color:blue;
+    
+}
+
+
+

@@ -1,0 +1,128 @@
+.container{
+    width: 100%;
+    height: 1200px;
+    background-color: gray;
+}
+
+header{
+    width: 25%;
+    height: 90px;
+    background-color: white;
+    background-image: url(images/htt.png);
+    background-size: 100% 100%;
+    float: left;
+}
+nav{
+    width: 75%;
+    height: 90px;
+    background-color: white;
+    float: right;
+}
+ul.menu-ngang{
+    width: 100%;
+    height: 80px;
+    margin: 5px;
+    padding: 5px;
+    list-style-type: none;
+}
+ul.menu-ngang>li>a{
+    display: block;
+    line-height: 80px;
+    text-decoration: none;
+    font-variant: small-caps;
+    text-align: center;
+    padding-left: 70px; 
+}
+ul.menu-ngang>li>a:hover{
+    
+    color: grey;
+    background-color: pink;
+    
+}
+ul.menu-ngang>li{
+    float: left;
+    margin: 0 5px;
+    position: relative;
+}
+ul.menu-ngang>li:hover>ul{
+    display: block;
+}
+aside{
+    margin-top: 20px;
+    width: 30%;
+    height: 900px;
+    float: right;
+    background-color: white;
+}
+.box5{
+    width: 100%;
+    height: 5%;
+    background-color: pink;
+}
+.box5>img{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.box5>h3{
+    color: white;
+}
+article{
+    margin-top: 20px;
+    width: 68%;
+    height: 900px;
+    float: left;
+    background-color: white;
+}
+.box1{
+    width: 100%;
+    height: 5%;
+    background-color: YELLOW;
+}
+.box1>img{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.box1>h3{
+    color: white;
+}
+.box2{
+    width: 100%;
+    height: 85%;
+}
+.box3{
+    width: 100%;
+    height: 50%;
+    margin-top: 10px;
+}
+.box3>h4{
+    color: red;
+}
+.box3>img{
+    float: left;
+}
+.box4{
+    width: 100%;
+    height: 50%;
+}
+.box4>h4{
+    color: red;
+}
+.box4>img{
+    float: left;
+}
+footer{
+    width: 100%;
+    height: 100px;
+}
+h1{
+    font-size:25px;
+    width:20px;
+    hight: 1px;
+    color:rgb(255, 205, 250);
+}
+html{
+    background: url('https://th.bing.com/th/id/OIP.n2J-te2edVD91F8w6udMmgHaHa?w=195&h=195&c=7&r=0&o=5&dpr=2&pid=1.7');
+    background-size: cover;
+}
